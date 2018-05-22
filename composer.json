@@ -1,0 +1,17 @@
+{
+    "name": "davidnotbad/dom_crawler",
+    "description": "Dom Crawler test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Yang",
+            "email": "davidnotbad@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "symfony/dom-crawler": "^4.0",
+        "symfony/var-dumper": "^4.0",
+        "symfony/css-selector": "^4.0"
+    }
+}
